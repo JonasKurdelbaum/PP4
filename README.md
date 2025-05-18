@@ -55,7 +55,7 @@ In this exercise you will:
 **Provide:**
 
 ```bash
-# 1) ssh -v JonasKurdelbaum@192.168.178.28
+# 1) ssh -v JonasKurdelbaum@128.140.85.215
 
 # 2) 1. Ubuntu Opened a Second window, and shoswed Version and Date of Installation
      2. The Programm started
